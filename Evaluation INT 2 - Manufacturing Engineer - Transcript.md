@@ -84,7 +84,7 @@ Ik had hier niet de features van Bill of Material verwacht, maar eigenlijk dat j
 
 Om dat te voorkomen denk ik, inderdaad wat je zegt, je hebt het allergrootste is dat je eigenlijk? Ja, je hebt gigantische lijsten met dit is een feature en dit is de andere feature.
 
-Speaker
+### Manufacturing Engineer
 
 Ja misschien wel.
 
