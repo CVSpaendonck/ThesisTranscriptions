@@ -128,3 +128,4 @@ Interviewer Ja precies oké. Dat is mijn idee ook, dat ik in principe het concep
 Business Application Manager Ja. Let wel op, je hebt mockups en je hebt Mockups, dus ik verwacht van jou geen XX mockups om het zo maar te zeggen, echt UI designer, maar wel iets dat ik gewoon snap hoe het werkt. Het hoeft niet allemaal tot in de puntjes gelikt te zijn, dat elke millimeter klopt. Hoe het ook kunnen in de app uiteindelijk eruit gaat zien. Meer wel van. Hoe werkt de flow? Wat doe ik, op welke plekken? Ja, hoe zit dat dan een beetje uit?
 Interviewer Ja dan, die is duidelijk, dan weet ik ook waar ik waar ik voor jou mee aan de slag moet of in ieder geval vanuit PT vooruit kan. Dat was hem dan zie ik. Bedankt voor het gesprek en dan stop ik de recording nu. 
 
+s
