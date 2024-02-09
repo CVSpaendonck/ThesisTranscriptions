@@ -1,5 +1,6 @@
-Transcript
+### Transcript
 
+# Interviewer
 Waar ik vandaag wil gebruiken is eigenlijk de evaluatie van wat ik gedaan heb. De afgelopen tijd en vooral ook jouw mening op een aantal criteria om te kijken of wat ik wat ik bedacht heb überhaupt iets is dat dat wij bij PT misschien kan leiden tot verbetering of in ieder geval gericht op de problemen die we die we gevalideerd en gevonden hebben binnen de cases. Het gaat er vooral om dat je je input geeft, vooral je feedback van wat wel kan dat niet kan. Waar jij problemen in ziet, waar jij verdere uitwerking in nodig acht en eigenlijk zo uitgebreid mogelijk, zodat ik daar de conclusies aan kan ophangen. Van hoe gaat werken of hoe het misschien zou kunnen werken. Snap je dat, Is dat duidelijk?
 
 # Business Process Manager
