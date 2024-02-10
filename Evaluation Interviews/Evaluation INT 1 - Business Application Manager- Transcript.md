@@ -59,11 +59,21 @@ Ik denk dat jij nu dit ziet. Wat we ook een keertje besproken hebben is dus dat 
 
 Nou kun je daar nog eens even die want die dram tenminste? Ik kan gewoon vragen stellen toch?
 
-Als je die dram options opent, dan moet ik dat dus zien. Dan staan er daar dus 5, en die komen eigenlijk overeen met wat je dram binnen je mini is en dram binnen je nano is. ### Interviewer Ja, dus links is eigenlijk je alle features die in dit model zitten, maar om niet een losse lijst te laten zijn en omdat vaak features overeenkomsten hebben, kun je daarvoor eigenlijk een groep van maken binnen je feature model zodat je ze en makkelijk kan vinden, maar ook dat het niet gewoon een vlakke lijst, dus.### Business Process ManagerJa, dus oke dat is duidelijk en dan moet ik het zo zien: Dit zijn al je componenten, toch?
+Als je die dram options opent, dan moet ik dat dus zien. Dan staan er daar dus 5, en die komen eigenlijk overeen met wat je dram binnen je mini is en dram binnen je nano is. 
+
+### Interviewer 
+
+Ja, dus links is eigenlijk je alle features die in dit model zitten, maar om niet een losse lijst te laten zijn en omdat vaak features overeenkomsten hebben, kun je daarvoor eigenlijk een groep van maken binnen je feature model zodat je ze en makkelijk kan vinden, maar ook dat het niet gewoon een vlakke lijst, dus.
+
+### Business Process Manager
+
+Ja, dus oke dat is duidelijk en dan moet ik het zo zien: Dit zijn al je componenten, toch?
 
 ### Interviewer
 
-Ja, dus het dingetje wat erachter staat, is eigenlijk zoals in het begin, zeg, maar voeg je dus een product toe. Daarmee dus Bill of Materials, documenten of iets dergelijks en hier staat eigenlijk bij IMX8, die heeft en zowel subassamblies dus de bom. En componenten en bij de rest idem dito, dus je ziet dat bijvoorbeeld bij DRAM dat hij alleen componenten overneemt.### Business Process Manager
+Ja, dus het dingetje wat erachter staat, is eigenlijk zoals in het begin, zeg, maar voeg je dus een product toe. Daarmee dus Bill of Materials, documenten of iets dergelijks en hier staat eigenlijk bij IMX8, die heeft en zowel subassamblies dus de bom. En componenten en bij de rest idem dito, dus je ziet dat bijvoorbeeld bij DRAM dat hij alleen componenten overneemt.
+
+### Business Process Manager
 
 En en nou snap ik hem dus niet want naar boven heeft die dram alleen maar documenten en die dram options alleen maar componenten. Maar ik had dan eigenlijk verwacht dat bij mijn dram daarboven ook componenten zouden staan.
 
