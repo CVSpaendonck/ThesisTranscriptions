@@ -36,6 +36,7 @@ Mijn vraag aan jou, herken je deze problemen, klopt het wat ik hier zeg? Zitten 
 **Business Application Manager** Hoe belangrijk ik dat ervaar dan hoe? Bedoel je precies hoe we dat gaan doen?
 
 **Interviewer** Ja precies, staat het hoog op je prioriteitenlijstje?
+
 **Business Application Manager** Ik weet dat dit in de organisatie gewoon hoog op de lijst staat, staat het al jaren. En nou is het eigenlijk concreet geworden waar we dan echt iets kunnen doen. En ook gewoon met management, dus met Koen CDO. Ja, die wilde ook gewoon echt prioriteit gaan geven. Met andere woorden als het nou prioriteit krijgt, dan is er eigenlijk in mijn ogen op dit moment rondom PLM niks belangrijker dan dit.
 
 **Interviewer** Oké duidelijk, dat is dan vooral de ontwikkeling van VDR?
@@ -60,6 +61,7 @@ Niet synchroon lopen va opgeloste issues en het niet in één keer oplossen van 
 
 **Business Application Manager** Hm nou hoop ik wel. Ik denk dat dus ook. Ja, even ja, kort antwoord, 
 maar ja.
+
 **Interviewer** Ja, oke.  Want nu is het zoals ik al zei, veel zoekwerk voor varianten, dus ze worden of niet gevonden of het proces stoppen ze een keertje mee omdat PowerBI dat niet zo netjes laat zien. En, het is gebaseerd op impliciete kennis. 
 
 Het updaten, dus de change en issue management, is iets dat in de toekomst misschien ook automatisch kan gaan. Daarbij gaven ze aan dat dat wel heel handig zou zijn, dus dat je in een keer de change doet, en dan ziet oké op al deze producten moeten deze changes ook dus doe dat maar. Maar alle drie de cases gaven aan dat ze expliciete keuze willen hebben om het ook niet te doen op bepaalde producten, omdat die het specifiek niet nodig hebben. Hoe sta jij daarin?
@@ -82,6 +84,7 @@ Oh ja, en wat ik ook had is op dit moment, of wat ze ook zeiden, is dat ze op di
 **Interviewer** Ja, dat bedoelde ik. Sorry, misschien was dat niet heel duidelijk, een beetje onduidelijk.
 
 **Business Application Manager** Ja, maar ze kunnen het wel, maar het is misschien niet altijd even makkelijk Ligt eraan hoe ze de configuratie in Orion hebben gedaan, maar in PLM hebben ze de Usage tab. Maar de meeste mensen, die weten dat nog niet echt.
+
 **Interviewer** Juist, dat is ook eentje waar ik aan dacht. In principe de Usage stap is daar de perfecte locatie waar dat makkelijk op kan zien. Het enige waar ze af en toe mee struggelen, was dat ze met verschillende versies van de building blocks dan weer problemen kregen om te zien welke waarin gebruikt werd.
 
 **Business Application Manager** Als ze de usage tab goed leren gebruiken, kun je daar alle versies selecteren. Hoe je het ja is, maar net hoe je het wil doen.
@@ -112,6 +115,7 @@ Oh ja, en wat ik ook had is op dit moment, of wat ze ook zeiden, is dat ze op di
 **Interviewer** Zou gewoon heel gestructureerd daar een idee over hebben en daar niet van af kunnen wijken.
 
 **Business Application Manager** Ja van nu is het gewoon,  flexibiliteit klinkt altijd leuk als softwaretools, maar met flexibiliteit komt complexiteit. Ja en als de gebruikers daar niet aan toe zijn of dat niet kunnen volgen, dan leidt het meer tot problemen dan dat het de zaak oplost die je oorspronkelijk als probleem zag.
+
 **Interviewer** Ja, dan krijg je gewoon een plethora aan nieuwe problemen die voortkomen uit fragiliteit.
 
 **Business Application Manager** Waardoor waarshijnlijk iedereen gaat zeggen, is er niet ergens een expert optie of zoiets is die je eigenlijk niet aan kan zetten, behalve als je eerst overlegt.
