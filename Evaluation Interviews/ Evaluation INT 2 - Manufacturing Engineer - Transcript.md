@@ -98,7 +98,9 @@ Ja precies. Je kunt dan geen meer, als je als je deze definitie heeft gemaakt va
 
 ### Interviewer
 
-Heb je het dan over ik wil die IMX8 opsplitsen in twee delen? ### Manufacturing Engineer
+Heb je het dan over ik wil die IMX8 opsplitsen in twee delen? 
+
+### Manufacturing Engineer
 
 Daar komt er wel op neer ja.Want dat het dat in ieder geval de meest logische use cases die hebben, want als ze beginnen met een product, dan weet je vaak nog niet welke variant je wil maken, want vaak is het in in de hardware mogelijk om veel meer varianten te maken dan waar de klant behoefte aan hebt. We gaan niet al beginnen met zeg maar van oké, we kunnen al deze varianten maken, hè? Je begint met van oké, we denken alleen maar dat we een snelle en langzame processor nodig hebben. Maar vervolgens zegt de klant van ja, wacht even die snelle die langzaam processen. Die hebben nu allebei een terabyte aan geheugen, Maar ik wil die snelle processor wil ik de keuze maken tussen een terabyte of 4 Terra. Ja en die andere, wil ik dat dus niet doen.
 
@@ -124,7 +126,11 @@ Het enige wat je hoeft te doen, dus je maakt ook een nieuwe feature aan en die h
 
 ### Manufacturing Engineer
 
-Ja, maar dat is niet maar wat ik bedoelde, want in dit geval is het is het heel erg triviaal, want je hebt al een aantal varianten binnen die feature. Wat met name interesseert is, hoe ga je daarmee om straks? Als je nog geen feature hebt gedefinieerd en je komt erachter van, hé, wacht even, deze commonality moet ik op gaan splitsen, dus in dit geval die mini, die moet ik in een keer op gaan splitsen tussen een mini met weet ik veel, een connector en een mini met twee usb connectoren. Noem maar even. ### InterviewerWat je dan in dit geval wat je dan zou doen, heb je die feature en wat je daaruit haalt is de connectoren. Die trek je er dan uit. Je moet zien is alles dat moet zeg maar alles wat niet gesplitst is communal.
+Ja, maar dat is niet maar wat ik bedoelde, want in dit geval is het is het heel erg triviaal, want je hebt al een aantal varianten binnen die feature. Wat met name interesseert is, hoe ga je daarmee om straks? Als je nog geen feature hebt gedefinieerd en je komt erachter van, hé, wacht even, deze commonality moet ik op gaan splitsen, dus in dit geval die mini, die moet ik in een keer op gaan splitsen tussen een mini met weet ik veel, een connector en een mini met twee usb connectoren. Noem maar even. 
+
+### Interviewer
+
+Wat je dan in dit geval wat je dan zou doen, heb je die feature en wat je daaruit haalt is de connectoren. Die trek je er dan uit. Je moet zien is alles dat moet zeg maar alles wat niet gesplitst is communal.
 
 ### Manufacturing Engineer
 
@@ -138,7 +144,11 @@ En alles dat je daar naar onder uitsplitsen, kun je nog steeds verder uitsplitse
 
 Ja ja. Is dat zo, dus stel nu hè dat ik deze configuratie heb met die mini hier. Ik maak daar een variant van, dus die is gereleased. En vervolgens wil ik in een later stadium kom ik er in een keer achter van. Oké, We willen die mini, willen we een onderverdelen in een mini met een USB poort aan de mini met twee usb poorten moet je USB poort, moet je uit die mini trekken hè? Je moet daar een nieuwe feature van maken, maar die variant die we al gereleased hadden die de mini had met die nog oude twee poort die moet die moet dus geupdate worden, dus dat die zorgt dat die wijst naar de juiste features, want je wil wel dat die wijst uiteindelijk de laatste versie van de feature, want stel dat ik die feature van de toekomst update omdat er replacement moet komen voor dat voor die USB poort. Moet je ook in die ook al in de released variant moet die aangepast worden, dus je moet ook met terugwerkende kracht, zeg maar. Het opsplitsen van features moet je ook aan de bestaande set van varianten moet je die ook zeg maar aanpassen.
 
-Dus die oude variant die wees voorheen alleen maar naar mini, maar als je deze opgesplitst heeft, dan wijst hij naar mini met de variant met een usb connector gaan.### InterviewerDus eigenlijk wil je zeggen dat als jij op het moment dat jij hem dus opsplitst en je verandert hem, wil jij eigenlijk dat die update naar de laatste versie van die configuratie? Of in die feature model?
+Dus die oude variant die wees voorheen alleen maar naar mini, maar als je deze opgesplitst heeft, dan wijst hij naar mini met de variant met een usb connector gaan.
+
+### Interviewer
+
+Dus eigenlijk wil je zeggen dat als jij op het moment dat jij hem dus opsplitst en je verandert hem, wil jij eigenlijk dat die update naar de laatste versie van die configuratie? Of in die feature model?
 
 ### Manufacturing Engineer
 
@@ -158,7 +168,11 @@ Ja precies.
 
 ### Manufacturing Engineer
 
-Dat is het moeilijke denk ik zon varianten model groeit. Als je een variant model vooraf kan opzetten zoals die auto en je denkt er van tevoren over na. Ik wil u groene auto een blauwe auto en mijn sportstoelen, meer niet. Als je er van tevoren over nadenkt en je definieert al die al die features, dan is het relatief makkelijk. Maar het probleem is nou juist als je gaandeweg de jaren op een gegeven moment denkt van ja, wacht even, we gaan voortborduren op dit product portfolio en we gaan nieuwe varianten creëren, dus we moeten nu Features opsplitsen, dan moeten al die oude varianten die moeten her gedefinieerd worden. Die moet in één keer nieuwe f eature definitie , maar die moeten qua functionaliteiten 100% hetzelfde zijn. Alleen, ze moeten wel een update krijgen. Wat ja naar welke feature en welke variant van de features zijn wijzen?### InterviewerDe 64 gigabyte kan niet meer wat gebeurt dan, want dan kan je hem niet meer een op een tussen aanhalingstekens linken naar een oud feature model.
+Dat is het moeilijke denk ik zon varianten model groeit. Als je een variant model vooraf kan opzetten zoals die auto en je denkt er van tevoren over na. Ik wil u groene auto een blauwe auto en mijn sportstoelen, meer niet. Als je er van tevoren over nadenkt en je definieert al die al die features, dan is het relatief makkelijk. Maar het probleem is nou juist als je gaandeweg de jaren op een gegeven moment denkt van ja, wacht even, we gaan voortborduren op dit product portfolio en we gaan nieuwe varianten creëren, dus we moeten nu Features opsplitsen, dan moeten al die oude varianten die moeten her gedefinieerd worden. Die moet in één keer nieuwe f eature definitie , maar die moeten qua functionaliteiten 100% hetzelfde zijn. Alleen, ze moeten wel een update krijgen. Wat ja naar welke feature en welke variant van de features zijn wijzen?
+
+### Interviewer
+
+De 64 gigabyte kan niet meer wat gebeurt dan, want dan kan je hem niet meer een op een tussen aanhalingstekens linken naar een oud feature model.
 
 ### Manufacturing Engineer
 
@@ -322,7 +336,10 @@ Het liefste wat je zou willen is in PLM de mogelijkheid hebben inderdaad om in p
 
 ### Manufacturing Engineer
 
-Dat kunnen we vrij makkelijk maken en dan kan inderdaad deze tool kan op gegeven moment componenten gaan groeperen en dat wil eigenlijk zeggen, jouw hele boom verandert helemaal niks aan. Het enige wat je doet is componentes groeperen en als we op hetzelfde level blijven, dan denk ik dat je ook geen problemen hebt. Maar ik kan me voorstellen, maar dat is eventjes een gevoel op dit moment. Ik kan me voorstellen dat je ook nog zelf componenten van niveau moet verwisselen en dan ga je natuurlijk wel een gevaarlijk moment krijgen. Dat je in een subassambly er in moet hangen of juist naar boven wil trekken van om jouw varianten te ondersteunen.### InterviewerMaar in die zin als je dan iets aanpast, dan kun je ook kijken naar, in welke feature komt hij dan terecht of in welke feature zou hij dan terecht moeten komen? Dus als jij hier twee nieuwe features onder mini aan moet maken, dan moet jij bedenken hè? Deze features die ga ik splitsen omdat dit en dit anders is. Dat betekent dat ik in PLM mijn mini moet aanpassen, daar moeten die twee dingen uitgehaald worden en die moeten op een nieuwe manier in PLM komen. Als je dan apart twee PNS aanmaakt, die kunnen willekeurig een PLM staan. Die hebben dan gewoon een productnummer en dan link je die feature gewoon direct weer aan dat productnummer. En dan zeg jij hè, neem deze bom of neem dit component of de document maakt allemaal niet zoveel uit. Neem deze over in die feature.
+Dat kunnen we vrij makkelijk maken en dan kan inderdaad deze tool kan op gegeven moment componenten gaan groeperen en dat wil eigenlijk zeggen, jouw hele boom verandert helemaal niks aan. Het enige wat je doet is componentes groeperen en als we op hetzelfde level blijven, dan denk ik dat je ook geen problemen hebt. Maar ik kan me voorstellen, maar dat is eventjes een gevoel op dit moment. Ik kan me voorstellen dat je ook nog zelf componenten van niveau moet verwisselen en dan ga je natuurlijk wel een gevaarlijk moment krijgen. Dat je in een subassambly er in moet hangen of juist naar boven wil trekken van om jouw varianten te ondersteunen.
+
+### Interviewer
+Maar in die zin als je dan iets aanpast, dan kun je ook kijken naar, in welke feature komt hij dan terecht of in welke feature zou hij dan terecht moeten komen? Dus als jij hier twee nieuwe features onder mini aan moet maken, dan moet jij bedenken hè? Deze features die ga ik splitsen omdat dit en dit anders is. Dat betekent dat ik in PLM mijn mini moet aanpassen, daar moeten die twee dingen uitgehaald worden en die moeten op een nieuwe manier in PLM komen. Als je dan apart twee PNS aanmaakt, die kunnen willekeurig een PLM staan. Die hebben dan gewoon een productnummer en dan link je die feature gewoon direct weer aan dat productnummer. En dan zeg jij hè, neem deze bom of neem dit component of de document maakt allemaal niet zoveel uit. Neem deze over in die feature.
 
 ### Manufacturing Engineer
 
@@ -350,23 +367,33 @@ We zeggen net dat je als je die nano weer opsplitst en je wil de twee features v
 
 ### Interviewer
 
-Maar het product dat daaronder zit is identiek. ### Manufacturing Engineer
+Maar het product dat daaronder zit is identiek. 
+
+### Manufacturing Engineer
 
 Ja, alleen we hebben nu in PLM het probleem dat we dus die modules maken door daar een PN tussen te hangen en ja op zich zou dat ook wel kunnen. Dan moet je daar een pn tussen hangen, ja.
 
 ### Interviewer
 
-Ik moet deze vragen nog even nalopen en moet ze gesteld hebben. Is Featureen modeling duidelijk en begrijpelijk. ### Manufacturing Engineer
+Ik moet deze vragen nog even nalopen en moet ze gesteld hebben. Is Featureen modeling duidelijk en begrijpelijk. 
 
-Ja, zeker oké, ja,.### Interviewer
+### Manufacturing Engineer
 
-Snap je de toepassing van het concept binnen PT zoals in hoe ik het gedemonstreerd heb en hoe het zou kunnen werken? ### Manufacturing Engineer
+Ja, zeker oké, ja,.
+
+### Interviewer
+
+Snap je de toepassing van het concept binnen PT zoals in hoe ik het gedemonstreerd heb en hoe het zou kunnen werken? 
+
+### Manufacturing Engineer
 
 Ja absoluut voor de problemen binnen PT, maar het grote deel wat ik mis en ik begrijp dat ik een beetje buiten die context is. Inderdaad, van hoe gaan we dat nou straks op PLM mappen en dat is een heel belangrijk stuk. Wat dat linken betekent, daar gaat het juist echt om.
 
 ### Interviewer
 
-Dat precies, en dat is een van de belangrijkste dingen is van zoiets als dit implementeren.### Manufacturing Engineer
+Dat precies, en dat is een van de belangrijkste dingen is van zoiets als dit implementeren.
+
+### Manufacturing Engineer
 
 Nou ja, anders kun je niet beginnen met implementeren voordat je dat duidelijk hebt, heeft geen zin om hier aan te beginnen. Je kunt je route niet afmaken.
 
@@ -382,7 +409,9 @@ Ik denk dat het wel afgedekt wordt, want het idee met alternatieven is dat wij o
 
 ### Interviewer
 
-Dat zou nog een volgende stap zijn?### Manufacturing Engineer
+Dat zou nog een volgende stap zijn?
+
+### Manufacturing Engineer
 
 Dus zit er dus nog een addertje onder het gras. Op het moment dat wij in product gaan maken of eigenlijk bestellen. Want Het is nog steeds niet duidelijk wanneer wij die alternatief willen platslaan. Doen we dat op moment dat we gaan inkopen of doen we dat moment dat we de productie starten? Het is zeer waarschijnlijk dat we het willen doen op het moment dat we gaan inkopen. Want dan moeten we natuurlijk weten welke alternatieven we inkopen. Goedkoper wel niet goedkoper, bijvoorbeeld beschikbaarheid. Je zou kunnen zeggen,je kunt het later doen, maar ja, dan ga je dan ga je misschien de verkeerde alternatieven gebruiken die helemaal niet bedoeld waren voor dit product, maar voor een ander product. Dus het lijkt vrij logisch dat je die bom bevriest of de alternatieve bevriest op het moment dat je gaat inkopen en daar hebben we op dit moment ook nog helemaal geen. Hoe zeg je dat concept? Ja, geen definitie voor. We hebben nog helemaal geen bevroren bom met alternatieve, want bij ons is namelijk het PN is de bevroren bom, maar dan gaan we dus eigenlijk nog een laag dieper, dus we krijgen een PN met daar bovenop een bevroren set van de alternatieve mogelijkheden die daarin zitten. Nu is het PN eigenlijk 100 Procent als deze bom geen twijfel mogen. Maar straks gaat het PN gaat zich bijvoorbeeld zijn dat is deze bom met deze alternatieve hier.
 
